@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mbormlog.github.io/sitemap.html.gz
+Sitemap: https://mbormlog.github.io/app/sitemap.html.gz
+Sitemap: https://mbormlog.github.io/assets/sitemap.html.gz
+Sitemap: https://mbormlog.github.io/css/sitemap.html.gz
+Sitemap: https://mbormlog.github.io/includes/sitemap.html.gz
+Sitemap: https://mbormlog.github.io/item/sitemap.html.gz
+Sitemap: https://mbormlog.github.io/src/sitemap.html.gz
